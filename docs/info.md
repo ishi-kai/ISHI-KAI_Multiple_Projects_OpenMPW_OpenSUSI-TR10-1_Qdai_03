@@ -1,4 +1,4 @@
-# Qdai DESIGN CHIP 01
+# Qdai DESIGN CHIP 03
 
 [![check](https://github.com/OpenSUSI/TR-1um_MPW_template/actions/workflows/check.yml/badge.svg?branch=main)](https://github.com/OpenSUSI/TR-1um_MPW_template/actions/workflows/check.yml)
 
@@ -18,20 +18,49 @@
 - [ISHI会ハンズオン in 九州大学大学院システム情報科学府附属価値創造型半導体人材育成センターを開催しました](https://ishi-kai.org/seminar/shuttle/opensusi-tr10/2026/09/05/Seminar_1bit-CPU_Kyudai.html)
 
 
-### 1bit-CPU回路
-- ![全体のレイアウト画面](/1bitCPU/images/onebitCPU_ALL.png)
-- [全体の回路図](/1bitCPU/onebitCPU_ALL.sch)
-- [全体のレイアウト](/1bitCPU/onebitCPU_ALL.gds)
+### インバータ回路
+- ![Satoshi_Kawakamiさんのレイアウト画面](/inverter/images/inverter_Satoshi_Kawakami.png)
+- [Satoshi_Kawakamiさんの回路図](/inverter/inverter_Satoshi_Kawakami.sch)
+- [Satoshi_Kawakamiさんのシミュレーション](/inverter/inverter_Satoshi_Kawakami_tb.sch)
+- [Satoshi_Kawakamiさんのレイアウト](/inverter/inverter_Satoshi_Kawakami.gds)
 
-- ![Haruichi_Kanayaさんのレイアウト画面](/1bitCPU/images/1bitCPU_1ine_min_Haruichi_Kanaya.png)
-- [Haruichi_Kanayaさんの回路図](/1bitCPU/1bitCPU_1ine_min_Haruichi_Kanaya.sch)
-- [Haruichi_Kanayaさんのレイアウト](/1bitCPU/1bitCPU_1ine_min_Haruichi_Kanaya.gds)
+- ![Seigo_Mitaraiさんのレイアウト画面](/inverter/images/inverter_Seigo_Mitarai.png)
+- [Seigo_Mitaraiさんの回路図](/inverter/inverter_Seigo_Mitarai.sch)
+- [Seigo_Mitaraiさんのシミュレーション](/inverter/inverter_Seigo_Mitarai_tb.sch)
+- [Seigo_Mitaraiさんのレイアウト](/inverter/inverter_Seigo_Mitarai.gds)
 
-- ![Satoshi_Kawakamiさんのレイアウト画面](/1bitCPU/images/1bitCPU_1line_Satoshi_Kawakami.png)
-- [Satoshi_Kawakamiさんの回路図](/1bitCPU/1bitCPU_1line_Satoshi_Kawakami.sch)
-- [Satoshi_Kawakamiさんのレイアウト](/1bitCPU/1bitCPU_1line_Satoshi_Kawakami.gds)
+- ![Shunsuke_Fujiiさんのレイアウト画面](/inverter/images/inverter_Shunsuke_Fujii.png)
+- [Shunsuke_Fujiiさんの回路図](/inverter/inverter_Shunsuke_Fujii.sch)
+- [Shunsuke_Fujiiさんのシミュレーション](/inverter/inverter_Shunsuke_Fujii_tb.sch)
+- [Shunsuke_Fujiiさんのレイアウト](/inverter/inverter_Shunsuke_Fujii.gds)
 
-- ![Hao_Chenさんのレイアウト画面](/1bitCPU/images/1bitCPU_Hao_Chen.png)
-- [Hao_Chenさんの回路図](/1bitCPU/1bitCPU_Hao_Chen.sch)
-- [Hao_Chenさんのレイアウト](/1bitCPU/1bitCPU_Hao_Chen.gds)
+- ![Shusuke_Isimaruさんのレイアウト画面](/inverter/images/inverter_Shusuke_Isimaru.png)
+- [Shusuke_Isimaruさんの回路図](/inverter/inverter_Shusuke_Isimaru.sch)
+- [Shusuke_Isimaruさんのシミュレーション](/inverter/inverter_Shusuke_Isimaru_tb.sch)
+- [Shusuke_Isimaruさんのレイアウト](/inverter/inverter_Shusuke_Isimaru.gds)
+
+- ![Takata_Ibukiさんのレイアウト画面](/inverter/images/inverter_Takata_Ibuki.png)
+- [Takata_Ibukiさんの回路図](/inverter/inverter_Takata_Ibuki.sch)
+- [Takata_Ibukiさんのシミュレーション](/inverter/inverter_Takata_Ibuki_tb.sch)
+- [Takata_Ibukiさんのレイアウト](/inverter/inverter_Takata_Ibuki.gds)
+
+- ![Tanaka_Airiさんのレイアウト画面](/inverter/images/inverter_Tanaka_Airi.png)
+- [Tanaka_Airiさんの回路図](/inverter/inverter_Tanaka_Airi.sch)
+- [Tanaka_Airiさんのシミュレーション](/inverter/inverter_Tanaka_Airi_tb.sch)
+- [Tanaka_Airiさんのレイアウト](/inverter/inverter_Tanaka_Airi.gds)
+
+- ![Tsukasa_Yamamotoさんのレイアウト画面](/inverter/images/inverter_Tsukasa_Yamamoto.png)
+- [Tsukasa_Yamamotoさんの回路図](/inverter/inverter_Tsukasa_Yamamoto.sch)
+- [Tsukasa_Yamamotoさんのシミュレーション](/inverter/inverter_Tsukasa_Yamamoto_tb.sch)
+- [Tsukasa_Yamamotoさんのレイアウト](/inverter/inverter_Tsukasa_Yamamoto.gds)
+
+- ![xu_wenyingさんのレイアウト画面](/inverter/images/inverter_xu_wenying.png)
+- [xu_wenyingさんの回路図](/inverter/inverter_xu_wenying.sch)
+- [xu_wenyingさんのシミュレーション](/inverter/inverter_xu_wenying_tb.sch)
+- [xu_wenyingさんのレイアウト](/inverter/inverter_xu_wenying.gds)
+
+- ![YU_WENJUNさんのレイアウト画面](/inverter/images/inverter_YU_WENJUN.png)
+- [YU_WENJUNさんの回路図](/inverter/inverter_YU_WENJUN_.sch)
+- [YU_WENJUNさんのシミュレーション](/inverter/inverter_YU_WENJUN_tb.sch)
+- [YU_WENJUNさんのレイアウト](/inverter/inverter_YU_WENJUN.gds)
 
